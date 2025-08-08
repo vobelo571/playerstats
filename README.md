@@ -1,0 +1,2 @@
+# playerstats
+Описание плагина playerstats
