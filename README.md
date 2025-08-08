@@ -1,13 +1,5 @@
 # PlayerStats Plugin - Команды
 
-## Доступные команды
-
-### RemoteAdmin команды
-Все команды доступны через RemoteAdmin с правами `playerstats.admin`
-
-### GameConsole команды
-Все команды доступны через консоль сервера
-
 ## Список команд
 
 Базовая команда: `ps` (алиасы: `playerstats`, `stats`)
