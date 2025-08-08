@@ -1,4 +1,4 @@
-# PlayerStats Plugin - Команды
+№ (Админ-Тулз FLX PROJECT 2.0)
 
 ## Список команд
 
