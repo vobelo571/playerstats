@@ -86,3 +86,6 @@ ps find PlayerName
 # Справка по командам
 ps help
 ```
+
+## Поддержка
+Если нашли баг или есть идеи — пишите TG: @Flixmo или Discord: @flixmo_
